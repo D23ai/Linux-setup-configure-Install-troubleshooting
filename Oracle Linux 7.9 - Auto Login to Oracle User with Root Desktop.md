@@ -222,6 +222,3 @@ Reboot.
 
 ---
 
-# License
-
-MIT
